@@ -1,7 +1,9 @@
 #Netlify:https://4tabs-react.netlify.app/
-Note: if this link doesn't show output then check your laptop windows firewall-outbound rules - exit
+
+#Note: if this link doesn't show output then check your laptop windows firewall-outbound rules - exit
 After this you can see the output.
-Source api:https://www.course-api.com/react-tabs-project
+
+#Source api:https://www.course-api.com/react-tabs-project
 
 # Getting Started with Create React App
 
